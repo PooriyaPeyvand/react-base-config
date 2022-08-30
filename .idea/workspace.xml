@@ -2,8 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6caeacdb-0a42-4b0f-8f80-85f973520cec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/makeRoute/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/routes/explore.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/routes/home.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/left.layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/main.layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/right.layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/index.routes.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/sagas/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/config/mui.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/interfaces/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/modules/themes.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/types/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintignore" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/store/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/store/index.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +41,9 @@
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectId" id="2DKgT5XxQmVQI456APK346tp4re" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,11 +57,17 @@
     "last_opened_file_path": "D:/projects/music-player",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "D:\\projects\\music-player\\node_modules\\prettier",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.sourceCode.TypeScript",
     "ts.external.directory.path": "D:\\projects\\music-player\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projects\music-player\src\components\routes" />
+      <recent name="D:\projects\music-player\src\components\makeRoute" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
@@ -64,10 +93,24 @@
       <workItem from="1661144643852" duration="331000" />
       <workItem from="1661144984750" duration="139000" />
       <workItem from="1661240467488" duration="702000" />
+      <workItem from="1661617015140" duration="14161000" />
+      <workItem from="1661697190072" duration="10518000" />
+      <workItem from="1661866651224" duration="9011000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
